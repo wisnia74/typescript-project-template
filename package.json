@@ -1,0 +1,45 @@
+{
+  "name": "vanilla-typescript-project-template",
+  "version": "1.0.0",
+  "description": "Vanilla TypeScript project template.",
+  "scripts": {
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "npm run lint -- --fix",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisnia74/vanilla-typescript-project-template.git"
+  },
+  "keywords": [
+    "template",
+    "typescript"
+  ],
+  "author": "wisnia74",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wisnia74/vanilla-typescript-project-template/issues"
+  },
+  "homepage": "https://github.com/wisnia74/vanilla-typescript-project-template#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/prettier": "^2.2.3",
+    "@typescript-eslint/eslint-plugin": "^4.25.0",
+    "@typescript-eslint/parser": "^4.25.0",
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jest": "^24.3.6",
+    "eslint-plugin-prettier": "^3.4.0",
+    "jest": "^27.0.3",
+    "prettier": "^2.3.0",
+    "ts-jest": "^27.0.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  },
+  "engines": {
+    "node": "16.2.0",
+    "npm": "7.13.0"
+  }
+}
