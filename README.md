@@ -1,4 +1,4 @@
-# typescript-project-template
+# pure-typescript-project-template
 
 - Runtime environment: [Node](https://nodejs.org/en/) ([`ts-node`](https://www.npmjs.com/package/ts-node)), Browser
 - Testing framework: [Jest](https://jestjs.io/) ([`ts-jest`](https://www.npmjs.com/package/ts-jest))
