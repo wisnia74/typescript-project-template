@@ -1,26 +1,26 @@
 {
   "name": "pure-typescript-project-template",
+  "author": "wisnia74",
+  "license": "MIT",
   "version": "1.0.0",
   "description": "Pure TypeScript project template.",
+  "keywords": [
+    "template",
+    "typescript"
+  ],
+  "homepage": "https://github.com/wisnia74/vanilla-typescript-project-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisnia74/vanilla-typescript-project-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wisnia74/vanilla-typescript-project-template/issues"
+  },
   "scripts": {
     "lint": "eslint . --ext .ts",
     "lint:fix": "npm run lint -- --fix",
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wisnia74/vanilla-typescript-project-template.git"
-  },
-  "keywords": [
-    "template",
-    "typescript"
-  ],
-  "author": "wisnia74",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wisnia74/vanilla-typescript-project-template/issues"
-  },
-  "homepage": "https://github.com/wisnia74/vanilla-typescript-project-template#readme",
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "@types/prettier": "^2.2.3",
