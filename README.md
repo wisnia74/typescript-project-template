@@ -10,8 +10,6 @@ Recommended to be used in conjunction with [VSCode](https://code.visualstudio.co
   - set Prettier as a default format tool in VSCode settings
   - optional: enable `Format on save` in VSCode settings
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-- [Code Metrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 ## Setup
 
