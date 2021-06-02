@@ -9,7 +9,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noImplicitReturns": true,
-    "baseUrl": "./",
+    "baseUrl": ".",
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
