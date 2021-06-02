@@ -37,7 +37,7 @@
   "settings": {
     "import/resolver": {
       "node": {
-        "estensions": [".ts", ".tsx"]
+        "exstensions": [".ts", ".tsx"]
       }
     }
   }
