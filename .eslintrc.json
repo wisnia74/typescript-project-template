@@ -16,8 +16,8 @@
     "plugin:@typescript-eslint/recommended",
     "plugin:import/recommended",
     "plugin:import/typescript",
-    "plugin:prettier/recommended"
-    "plugin:jest/all",
+    "plugin:prettier/recommended",
+    "plugin:jest/all"
   ],
   "plugins": ["@typescript-eslint"],
   "rules": {
