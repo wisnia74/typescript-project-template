@@ -21,6 +21,7 @@
     "lint:fix": "npm run lint -- --fix",
     "test": "jest"
   },
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "@types/prettier": "^2.2.3",
