@@ -1,3 +1,3 @@
 #!/bin/bash
 
-exec npm run lint -- --fix
+npm run lint -- --fix
