@@ -19,8 +19,7 @@
   "scripts": {
     "lint": "bash ./script/lint.sh",
     "lint:fix": "bash ./script/lint-fix.sh",
-    "test": "bash ./script/test.sh",
-    "start": "bash ./script/start.sh"
+    "test": "bash ./script/test.sh"
   },
   "dependencies": {
     "@types/node": "^15.12.2",
