@@ -3,12 +3,11 @@
 - Runtime environment: [Node](https://nodejs.org/en/) ([`ts-node`](https://www.npmjs.com/package/ts-node)), Browser
 - Testing framework: [Jest](https://jestjs.io/) ([`ts-jest`](https://www.npmjs.com/package/ts-jest))
 - Code quality enforcers: [ESLint](https://eslint.org/), [Prettier](https://prettier.io/)
+- Code editor: [VSCode](https://code.visualstudio.com/)
 
-Recommended to be used in conjunction with [VSCode](https://code.visualstudio.com/) having following plugins installed:
+Make sure your VSCode has following plugins installed:
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - set Prettier as a default format tool in VSCode settings
-  - optional: enable `Format on save` in VSCode settings
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 ## Setup
