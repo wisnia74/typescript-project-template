@@ -27,7 +27,7 @@ npm install
 
 I've added `ts-node`, `@types/node` and `tsconfig-paths` as `dependencies` in case you wanted to run your app in production with `ts-node`.
 
-If that's not the case, you'll need uninstall these three packages, and install them again as `devDependencies`. However, if you actually want to run your app in production with `ts-node`, keep in mind that:
+If that's not the case, you might want to uninstall those three packages, and install them again as `devDependencies`. However, if you actually want to run your app in production with `ts-node`, keep in mind that:
 
 - to elevate `tsconfig.json` `baseUrl` and make `ts-node` resolve your absolute paths in a correct way, you need to give it `--require tsconfig-paths/register` argument
 - you should run your app with `--transpile-only` flag (`ts-node --transpile-only app.ts`) - this will result with `ts-node` **not** generating type information, which makes memory footprint smaller...
