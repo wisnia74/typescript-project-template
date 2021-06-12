@@ -1,6 +1,6 @@
 # pure-typescript-project-template
 
-Simple TypeScript template equipped with basic tools to get you started in your project. Can be used with servers, can be used with projects that create bundle files - depending on your use case, you'll probably need to play around with various settings, but it seems to be a good boilerplate.
+Simple TypeScript template equipped with basic tools to get you started in your project. It has a basic configuration in place but depending on what you want to build, you might want to adjust it to your needs.
 
 - Runtime environment: [Node](https://nodejs.org/en/) ([`ts-node`](https://www.npmjs.com/package/ts-node)), Browser
 - Testing framework: [Jest](https://jestjs.io/) ([`ts-jest`](https://www.npmjs.com/package/ts-jest))
