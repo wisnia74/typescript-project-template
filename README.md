@@ -27,6 +27,6 @@ To use this repository as a template follow [this guide](https://docs.github.com
 Once inside the repo, run:
 
 ```shell
-> nvm use
-> npm install
+nvm use
+npm install
 ```
