@@ -33,5 +33,5 @@ However, if you actually want to run your app in production with `ts-node`, keep
 
 - to elevate `tsconfig.json` `baseUrl` and make `ts-node` resolve your absolute paths in a correct way, you need to give it `--require tsconfig-paths/register` argument
 - you should run your app with `--transpile-only` flag (`ts-node --transpile-only app.ts`) - this will result with `ts-node` **not** generating type information, which makes memory footprint smaller...
-- ...but if, at the same time, you want to use [`reflect-metadata`](https://www.npmjs.com/package/reflect-metadata) package in production (with experimental support for decorators), `--transpile-only` flag can cause issues - if that's your use case, consider compiling your app to `.js` and running it with a regular `node` command
+- ...but if at the same time you want to use [`reflect-metadata`](https://www.npmjs.com/package/reflect-metadata) package in production (with experimental support for decorators), `--transpile-only` flag can cause issues - if that's your use case, consider compiling your app to `.js` and running it with a regular `node` command
 
