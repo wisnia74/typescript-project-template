@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jest $@
+jest --config ./jest.config.json $@
