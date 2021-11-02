@@ -17,6 +17,7 @@
     "url": "https://github.com/wisnia74/typescript-project-template/issues"
   },
   "scripts": {
+    "build": "bash ./script/build.sh",
     "lint": "bash ./script/lint.sh",
     "test": "bash ./script/test.sh"
   },
