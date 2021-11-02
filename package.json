@@ -18,7 +18,6 @@
   },
   "scripts": {
     "lint": "bash .\\script\\lint.sh",
-    "lint:fix": "bash .\\script\\lint-fix.sh",
     "test": "bash .\\script\\test.sh"
   },
   "dependencies": {
