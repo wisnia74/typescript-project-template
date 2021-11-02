@@ -10,6 +10,9 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "baseUrl": ".",
+    "paths": {
+      "@App/*": ["./src/*"]
+    },
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
