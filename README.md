@@ -1,4 +1,4 @@
-# pure-typescript-project-template
+# typescript-project-template
 
 Simple TypeScript template equipped with basic tools to get you started in your project. It has a basic configuration in place but depending on what you want to build, you might want to adjust it to your needs.
 
