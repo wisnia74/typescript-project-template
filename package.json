@@ -1,9 +1,9 @@
 {
-  "name": "pure-typescript-project-template",
+  "name": "typescript-project-template",
   "author": "wisnia74",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "Pure TypeScript project template.",
+  "description": "TypeScript project template.",
   "keywords": [
     "template",
     "typescript"
