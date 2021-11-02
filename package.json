@@ -8,13 +8,13 @@
     "template",
     "typescript"
   ],
-  "homepage": "https://github.com/wisnia74/pure-typescript-project-template#readme",
+  "homepage": "https://github.com/wisnia74/typescript-project-template#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wisnia74/pure-typescript-project-template.git"
+    "url": "git+https://github.com/wisnia74/typescript-project-template.git"
   },
   "bugs": {
-    "url": "https://github.com/wisnia74/pure-typescript-project-template/issues"
+    "url": "https://github.com/wisnia74/typescript-project-template/issues"
   },
   "scripts": {
     "lint": "bash .\\script\\lint.sh",
