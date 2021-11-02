@@ -1,8 +1,5 @@
 {
   "prettier.requireConfig": true,
-  "prettier.printWidth": 120,
-  "prettier.singleQuote": true,
-  "prettier.quoteProps": "consistent",
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
