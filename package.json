@@ -17,8 +17,8 @@
     "url": "https://github.com/wisnia74/pure-typescript-project-template/issues"
   },
   "scripts": {
-    "lint": "bash .\\script\\lint.sh",
-    "test": "bash .\\script\\test.sh"
+    "lint": "bash ./script/lint.sh",
+    "test": "bash ./script/test.sh"
   },
   "dependencies": {
     "@types/node": "^15.14.9",
